@@ -7,6 +7,7 @@
 // You can use this source file as a basis for your own projects.
 // Remove the parts that are not relevant to you, and add your own code
 // for external hardware libraries.
+// Added this important comment
 
 #include <memory>
 
